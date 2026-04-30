@@ -72,7 +72,27 @@ Google Colab
 
 📊 Visualization:
 
-👉 You can add your screenshots below (graphs from your project):
+
+<img width="600" height=" " alt="Screenshot 2026-04-30 125345" src="https://github.com/user-attachments/assets/bc9d85f3-83d1-4230-96f7-e6c16103a5f7" />
+
+
+<img width="600" height=" " alt="Screenshot 2026-04-30 125429" src="https://github.com/user-attachments/assets/454fd3a7-a80f-4552-aee2-d2c973a6e0f3" />
+
+
+<img width="600" height=" " alt="Screenshot 2026-04-30 125459" src="https://github.com/user-attachments/assets/1a433634-71b4-4c68-ba53-26165d423e67" />
+
+
+<img width="600" height=" " alt="Screenshot 2026-04-30 125536" src="https://github.com/user-attachments/assets/d9173de5-3f33-4b8e-a66e-e0c3ed805578" />
+
+
+<img width="600" height=" " alt="Screenshot 2026-04-30 125604" src="https://github.com/user-attachments/assets/3bf66030-b55e-4f93-ae49-3301b29feae2" />
+
+
+<img width="600" height=" " alt="Screenshot 2026-04-30 125628" src="https://github.com/user-attachments/assets/4ea62e47-a9cd-46ab-8657-2bb7407a435d" />
+
+
+<img width="600" height=" " alt="Screenshot 2026-04-30 125655" src="https://github.com/user-attachments/assets/78b4ed2c-bea9-4973-8630-8f436414a4f4" />
+
 
 🔹 Transaction Distribution
 
